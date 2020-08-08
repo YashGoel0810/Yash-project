@@ -1,0 +1,8 @@
+public class yash{
+publc static void main(int i){
+if(i!2=0)
+System.out.println(i+"is a even number");
+else 
+System.out.println(i+"is a odd number");
+}
+}
