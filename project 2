@@ -1,0 +1,14 @@
+class project 2
+{
+public static void main()
+{
+int y;int d;//y and d are short forms for years and days respectively
+Scanner sc=new scanner(System.in)
+System.out.println("enter the number of minutes");
+int m=sc.nextint();//m is the short form for minutes 
+y=m/525600;
+d=(m%525600)/1440;
+System.out.println("Years :"+y);
+System.out.println("Days:"+d);
+}
+}
