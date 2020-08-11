@@ -1,0 +1,18 @@
+public class while_10
+{
+    public static void main(String[]args)
+{
+System.out.print("Name\t");
+System.out.print("Year of joining\t");
+System.out.println("address");
+System.out.print("Robert WallsStreet\t");
+System.out.print("1994\t");
+System.out.println("64c-");
+System.out.print("Sam WallsStreet\t");
+System.out.print("2000\t");
+System.out.println("68D-");
+System.out.println("John WallsStreet\t");
+System.out.print("1999\t");
+System.out.println("26B-");
+}
+}
