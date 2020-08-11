@@ -1,0 +1,21 @@
+import java.util.*;
+public class project 3
+{
+public static void main(String []args)
+{
+int choice;
+System.out.println("Pick one:1. hi/t2.hey/t3.hello/t");
+Scanner sc=new Scanner(System.in);
+choice=sc.nextInt();
+switch(choice)
+{
+case 1:Systm.out.println("You said hi");
+break;
+case 2:Systm.out.println("You said hey");
+break;
+case 3:Systm.out.println("You said hello");
+break;
+default:Systm.out.println("Invalid choice");
+}
+}
+}
