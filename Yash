@@ -6,7 +6,7 @@ Scanner sc=new Scanner(System.in);
 int I;
 System.out.println("Enter number:");
 I=sc.nextInt();
-if(i!2=0)
+if(I!2=0)
 System.out.println(i+"is a even number");
 else 
 System.out.println(i+"is a odd number");
