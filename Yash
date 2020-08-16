@@ -1,5 +1,11 @@
-public class yash{
-publc static void main(int i){
+public class yash
+{
+publc static void main()
+{
+Scanner sc=new Scanner(System.in);
+int I;
+System.out.println("Enter number:");
+I=sc.nextInt();
 if(i!2=0)
 System.out.println(i+"is a even number");
 else 
